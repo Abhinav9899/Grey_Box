@@ -1,7 +1,7 @@
 # Grey_Box
 GreyBox Assignment Submission
 
-Please play the scene located at Grey_Box\Myproject\Assets\Scenes\1-MyGreybox
+Please play the scene located at Myproject\Assets\Scenes\1-MyGreybox
 
 ## Description
 1) This goal of the player in this game is to exit out of a trapped area, the player will be given two operator buttons, one of which will be disabled, which when enabled and interacted will open the wall and the other would be a dummy. 
